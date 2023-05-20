@@ -1,7 +1,7 @@
 ## Primeiro Desafio Fullcycle: Otimização de imagem golang
 
-Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
-Você terá que publicar uma imagem no docker hub. Quando executarmos:
+Primeiro desafio do curso FullCycle3. O Objetivo é otimizar uma imagem da linguagem Go 
+para que ficasse com menos de 2mb. Após a otimização, a imagem ficou com 1.23mb.
 
 Execute em um terminal o comando abaixo:
 
