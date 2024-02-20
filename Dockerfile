@@ -1,4 +1,4 @@
-FROM golang:1.15
+FROM golang:1.21
 
 ENV APP_NAME app
 ENV PORT 8080
